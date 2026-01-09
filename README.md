@@ -22,9 +22,6 @@ O objetivo é criar uma ferramenta no Excel que ajude a organizar e reunir infor
 - Microsoft Excel
 - GitHub para versionamento e documentação
 
-## 📸 Capturas de Tela
-As imagens estão disponíveis na pasta `/images`.
-
 ## 📚 Recursos de Apoio
 - [Documentação GitHub Markdown](https://docs.github.com/en/get-started/writing-on-github)
 - [Receita Federal - Imposto de Renda](https://www.gov.br/receitafederal)
