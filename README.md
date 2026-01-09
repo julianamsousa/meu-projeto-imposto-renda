@@ -13,7 +13,7 @@ O objetivo é criar uma ferramenta no Excel que ajude a organizar e reunir infor
 - Relatórios consolidados para apoiar a declaração.
 
 ## 🚀 Como usar
-1. Baixe o arquivo '/imposto_renda.xlsx'.
+1. Baixe o arquivo (imposto_renda.xlsx).
 2. Abra no Excel.
 3. Navegue pelas abas e insira seus dados.
 4. Utilize os menus e links rápidos para acessar informações adicionais.
